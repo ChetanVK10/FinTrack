@@ -112,8 +112,10 @@ State is managed using React Context API, including:
 
 ## 📁 Project Structure
 
+```bash
 src/
 │── assets/
+│
 │── components/
 │   ├── Charts.tsx
 │   ├── Insights.tsx
