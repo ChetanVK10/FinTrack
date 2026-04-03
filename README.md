@@ -145,7 +145,7 @@ src/
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/fintrack.git
+git clone https://github.com/ChetanVK10/FinTrack.git
 
 ### 2. Navigate to project folder
 
