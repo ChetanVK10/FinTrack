@@ -138,7 +138,7 @@ src/
 │── main.tsx
 │── index.css
 │── App.css
-
+```
 ---
 
 ## 🚀 Getting Started
